@@ -25,7 +25,7 @@ int countCases(bool isTaken[10]){
   if (i == n)
     return 1;
   isTaken[i] = true;
-  for (int j=0; j < n; ++j){
+  for (int j=i+1; j < n; ++j){
     if (!isTaken[j] && isPair[i][j]){
       isTaken[j] = true;
       ret += countCases(isTaken);
