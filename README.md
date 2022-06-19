@@ -53,3 +53,4 @@ yyyy-mm-dd | 32장 네트워크 유량 | 🔲
 ## Who are we?
 
 [@leedonggyu1848](https://github.com/leedonggyu1848/)
+[@Yujinysi](https://github.com/Supernovaysi)
